@@ -12,13 +12,14 @@ header {
   background-color : #b7b7a4;
   padding: 30px;
   font-family : cursive;
+  height: 300px;
 }
 header h1 {
   text-align : center;
   font-size : 60px;
   letter-spacing: 35px;
   font-weight : 600;
-  margin-top : 60px;
+  margin-top : 60px; 
 }
 
 header h3 {
@@ -91,13 +92,14 @@ img {
   padding-left: 20px;
   padding-right: 20px;
   font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color : gray
+  color : black
 }
 
 /*about me--------*/
 .about-me {
   background-color: #ddbea9;
   padding : 40px;
+  height: 400px;
 }
 
 .about-me h2{
@@ -109,7 +111,7 @@ img {
   font-size: 38px;
   background-color: #a5a58d;
   border : 1px solid black;
-  color: rgb(53, 52, 52);
+  color: black;
 }
 
 .about-me p {
@@ -133,6 +135,7 @@ ol {
 .contact {
   padding: 40px;
   text-align: center;
+  height: 400px;
 }
 
 .contact h2{
@@ -144,14 +147,18 @@ ol {
   font-size: 38px;
   background-color: #a5a58d;
   border : 1px solid black;
-  color: rgb(53, 52, 52);
+  color:black;
 }
 
 .contact a{
-  color : rgb(53, 52, 52);
+  color : black;
   text-decoration: none;
   font-size: 48px;
   padding: 40px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 /*footer-------*/
