@@ -157,6 +157,10 @@ ol {
   font-size: 48px;
 }
 
+.contact a:active {
+  color: brown;
+}
+
 ul {
   list-style-type: none;
 }
