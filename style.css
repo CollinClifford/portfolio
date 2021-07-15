@@ -24,7 +24,7 @@ header h1 {
 
 header p {
   text-align : right;
-  padding-right: 275px;
+  margin-right: 275px;
   font-size: 20px;
 }
 
